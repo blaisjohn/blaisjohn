@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blaisjohn
-- 👀 I’m interested in 
+- 👀 I’m interested in everything
 - 🌱 I’m currently learning (a little bit of everything) python, java, sql and php
 
 <!---
